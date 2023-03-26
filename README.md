@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew Jericho Go Sy</h1>
 <h3 align="center">An undergrad computer science student from the Philippines 🇵🇭</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerichosy&label=Profile%20views&color=0e75b6&style=flat" alt="jerichosy" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerichosy" alt="jerichosy" /></a> </p>
 
 - 🔭 I’m currently working on **a Discord bot**
