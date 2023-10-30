@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerichosy" alt="jerichosy" /></a> </p>
 
-- 🔭 I’m currently working on **a Discord bot**
+<p align="left"> <a href="https://twitter.com/jerichosy_" target="blank"><img src="https://img.shields.io/twitter/follow/jerichosy_?logo=twitter&style=for-the-badge" alt="jerichosy_" /></a> </p>
 
-- 🌱 I’m currently learning **Go**
+- 🔭 I’m currently working on [a Discord bot](https://github.com/jerichosy/Abet-Discord-bot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jerichosy?tab=repositories](https://github.com/jerichosy?tab=repositories)
+
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **matthew_sy@dlsu.edu.ph**
 
@@ -15,7 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/jerichosy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerichosy_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthewjerichosy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthewjerichosy" height="30" width="40" /></a>
+<a href="https://fb.com/mgsy1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mgsy1101" height="30" width="40" /></a>
+<a href="https://instagram.com/mgsy1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgsy1101" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
