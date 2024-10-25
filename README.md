@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerichosy&show_icons=true&locale=en" alt="jerichosy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerichosy&" alt="jerichosy" /></p>
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=23947a77c9ab&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
